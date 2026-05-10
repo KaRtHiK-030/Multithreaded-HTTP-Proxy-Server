@@ -154,7 +154,3 @@ Through this project, I learned:
 * Interested in Backend Development, System Design, and Cloud Computing
 
 ---
-
-# License
-
-This project is open-source and available under the MIT License.
